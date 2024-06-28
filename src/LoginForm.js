@@ -10,7 +10,7 @@ const LoginForm = () => {
         <Col md={6} className="bg-image"></Col>
         <Col md={6} className="bg-light p-5">
           <div className="text-center mb-4">
-            <img src="/logo1.png" alt="Logo" className="logo" />
+            <img src="/HCLogo.webp" alt="Logo" className="logo" />
           </div>
           <h2 className="text-center mb-4">Login to your account</h2>
           <Form>
